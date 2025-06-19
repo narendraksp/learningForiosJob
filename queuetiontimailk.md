@@ -42,12 +42,7 @@ learn swiftData
 learn Mocking, Stubbing, Dependency Injection for testing
 
 
-# Advanced Topics
-* Deep linking (Universal links, custom URL schemes)
-* Push notifications (APNs, Firebase)
-* BLE, HomeKit, HealthKit (domain-specific)
-* App security: Jailbreak detection, certificate pinning
-* AppStore submission policies & review process
+
 
  #  System Design for Mobile
 ## i need learn his approch 
