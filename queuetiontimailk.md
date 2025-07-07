@@ -1,3 +1,4 @@
+
 # Swift Programming
   why struct faster  i need how allocate heap/stack , ustand memory sematic
   nad when use struct and whebn classs
